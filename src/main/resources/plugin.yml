@@ -1,0 +1,7 @@
+name: DummyPlugin
+main: net.m21xx.mc.dummy.DummyPlugin
+version: 0.0.1
+commands:
+  helloworld:
+    description: Hello World Command
+    usage: /helloworld
